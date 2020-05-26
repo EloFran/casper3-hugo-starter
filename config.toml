@@ -1,6 +1,6 @@
 DefaultContentLanguage = "es"
 author = "EloFran"
-baseURL = "https://estudiaconelo.com"
+baseURL = "https://estudiaconelo.netyfly.com"
 copyright = "Copyright © 2020. Todos los derechos reservados"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"

@@ -10,7 +10,7 @@ theme = "casper3"
 title = "EloFran Prueba"
 [[menu.main]]
 identifier = "Info"
-name = "About"
+name = "Info"
 url = "/about/"
 weight = 10
 [[menu.main]]
